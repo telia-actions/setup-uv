@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Actionlint
-        uses: eifinger/actionlint-action@23c85443d840cd73bbecb9cddfc933cc21649a38  # v1.9.1
+        uses: eifinger/actionlint-action@03ff1f78c0670b71017616a37170f327df932030  # v1.9.2
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
