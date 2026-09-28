@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository is deprecated and no longer maintained.<br />
+> Please use the official Astral GitHub Action [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv).
+
 # setup-uv
 
 Set up your GitHub Actions workflow with a specific version of [uv](https://docs.astral.sh/uv/).
